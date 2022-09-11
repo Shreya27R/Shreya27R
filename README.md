@@ -1,6 +1,6 @@
 - 👋 Hi , I'm Shreya B , SSIS developer and Web development enthusiastic,currently working as Senior Software enginner in LTI.
-- I am interested in learning new technologies and languages.Currently exploring web develpment field as apart of intrest.
-- When i dont code,I design garphics using Adobe illustarator and Adobe photoshop and create cooking and art video content for my youtube Channel.
+- I am interested in learning new technologies and languages.Currently exploring Python as a part of interest.
+- When i don't code,I design garphics using Adobe illustarator and Adobe photoshop and create cooking and art video content for my youtube Channel.
 
 
 <!---
